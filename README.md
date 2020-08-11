@@ -2,6 +2,8 @@
 
 Projeto do BootCamp da Rocketseat
 
+linkein https://www.linkedin.com/pulse/anima%25C3%25A7%25C3%25B5es-react-native-gostack-herbert-sousa
+
 Usando React Native como framework base, e usando conceitos de animação.
 - Alterações do BootCamp: 
   Usar Funcional Components ao invés de Classes
